@@ -1,2 +1,2 @@
-# Estrutura-em-C
-Estrutura básica de matriz em C++
+# Estrutura_em_C
+Atividade em C++ 
